@@ -87,7 +87,7 @@ public class app extends javax.swing.JFrame {
                 
         }else{
                     
-            JOptionPane.showMessageDialog(null,"Ingrese el número de procesos que desea ver!!!");
+            JOptionPane.showMessageDialog(null,"Ey!!!, Ingrese el número de procesos que desea ver!!!");
              }
 
         } catch (Exception e){}finally{try{if( null != fr ){fr.close();}}catch (IOException e2){}{
